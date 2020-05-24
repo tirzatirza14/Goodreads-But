@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/goodreads-but/static/css/main.16267628.chunk.css",
-    "main.js": "/goodreads-but/static/js/main.7f93c223.chunk.js",
-    "main.js.map": "/goodreads-but/static/js/main.7f93c223.chunk.js.map",
+    "main.js": "/goodreads-but/static/js/main.fab88d01.chunk.js",
+    "main.js.map": "/goodreads-but/static/js/main.fab88d01.chunk.js.map",
     "runtime-main.js": "/goodreads-but/static/js/runtime-main.4c0d47c8.js",
     "runtime-main.js.map": "/goodreads-but/static/js/runtime-main.4c0d47c8.js.map",
     "static/js/2.3e89b5d9.chunk.js": "/goodreads-but/static/js/2.3e89b5d9.chunk.js",
     "static/js/2.3e89b5d9.chunk.js.map": "/goodreads-but/static/js/2.3e89b5d9.chunk.js.map",
     "index.html": "/goodreads-but/index.html",
-    "precache-manifest.ef4af10454be0c0a0e0c57175bbca9bb.js": "/goodreads-but/precache-manifest.ef4af10454be0c0a0e0c57175bbca9bb.js",
+    "precache-manifest.6959430276e30dbece9f046bf849fb30.js": "/goodreads-but/precache-manifest.6959430276e30dbece9f046bf849fb30.js",
     "service-worker.js": "/goodreads-but/service-worker.js",
     "static/css/main.16267628.chunk.css.map": "/goodreads-but/static/css/main.16267628.chunk.css.map",
     "static/js/2.3e89b5d9.chunk.js.LICENSE.txt": "/goodreads-but/static/js/2.3e89b5d9.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4c0d47c8.js",
     "static/js/2.3e89b5d9.chunk.js",
     "static/css/main.16267628.chunk.css",
-    "static/js/main.7f93c223.chunk.js"
+    "static/js/main.fab88d01.chunk.js"
   ]
 }
