@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/goodreads-but/static/css/main.dafeccd9.chunk.css",
-    "main.js": "/goodreads-but/static/js/main.f965c946.chunk.js",
-    "main.js.map": "/goodreads-but/static/js/main.f965c946.chunk.js.map",
+    "main.css": "/goodreads-but/static/css/main.721fdc51.chunk.css",
+    "main.js": "/goodreads-but/static/js/main.7f93c223.chunk.js",
+    "main.js.map": "/goodreads-but/static/js/main.7f93c223.chunk.js.map",
     "runtime-main.js": "/goodreads-but/static/js/runtime-main.4c0d47c8.js",
     "runtime-main.js.map": "/goodreads-but/static/js/runtime-main.4c0d47c8.js.map",
-    "static/js/2.66d8040c.chunk.js": "/goodreads-but/static/js/2.66d8040c.chunk.js",
-    "static/js/2.66d8040c.chunk.js.map": "/goodreads-but/static/js/2.66d8040c.chunk.js.map",
+    "static/js/2.3e89b5d9.chunk.js": "/goodreads-but/static/js/2.3e89b5d9.chunk.js",
+    "static/js/2.3e89b5d9.chunk.js.map": "/goodreads-but/static/js/2.3e89b5d9.chunk.js.map",
     "index.html": "/goodreads-but/index.html",
-    "precache-manifest.3d7727ba3826216ecb577c0706530951.js": "/goodreads-but/precache-manifest.3d7727ba3826216ecb577c0706530951.js",
+    "precache-manifest.cccf711ce7c9c3362c442a995a10bbe8.js": "/goodreads-but/precache-manifest.cccf711ce7c9c3362c442a995a10bbe8.js",
     "service-worker.js": "/goodreads-but/service-worker.js",
-    "static/css/main.dafeccd9.chunk.css.map": "/goodreads-but/static/css/main.dafeccd9.chunk.css.map",
-    "static/js/2.66d8040c.chunk.js.LICENSE.txt": "/goodreads-but/static/js/2.66d8040c.chunk.js.LICENSE.txt"
+    "static/css/main.721fdc51.chunk.css.map": "/goodreads-but/static/css/main.721fdc51.chunk.css.map",
+    "static/js/2.3e89b5d9.chunk.js.LICENSE.txt": "/goodreads-but/static/js/2.3e89b5d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4c0d47c8.js",
-    "static/js/2.66d8040c.chunk.js",
-    "static/css/main.dafeccd9.chunk.css",
-    "static/js/main.f965c946.chunk.js"
+    "static/js/2.3e89b5d9.chunk.js",
+    "static/css/main.721fdc51.chunk.css",
+    "static/js/main.7f93c223.chunk.js"
   ]
 }
