@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/goodreads-but/precache-manifest.6ebb9ae160e2c7733d21494f1be292de.js"
+  "/goodreads-but/precache-manifest.ef4af10454be0c0a0e0c57175bbca9bb.js"
 );
 
 self.addEventListener('message', (event) => {
